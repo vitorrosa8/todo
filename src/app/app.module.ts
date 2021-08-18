@@ -9,7 +9,6 @@ import { HeaderComponent } from "./components/header/header.component";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 
 import { MatToolbarModule } from "@angular/material/toolbar";
-import { FooterComponent } from "./components/footer/footer.component";
 import { ReadAllComponent } from "./components/read-all/read-all.component";
 import { MatCardModule } from "@angular/material/card";
 import { MatButtonModule } from "@angular/material/button";
@@ -27,7 +26,6 @@ import { UpdateComponent } from './components/update/update.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent,
     ReadAllComponent,
     FinalizadosComponent,
     CreateComponent,
